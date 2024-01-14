@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About me<br><br>- 🔭 I’m currently working on making my first website and game! Currently still designing and preparing the artwork.<br>- 🌱 I’m currently learning C#, JavaScript, HTML+CSS, Python and Java.<br>- 💬 Ask me about art! My hobbies are drawing and painting.<br>- 😄 Pronouns: She/Her<br>- ⚡ Fun fact: I know the first 150 digits of Pi π<br>- 📫 You can reach me through E-Mail: k.03.agob@gmail.com
+🔭 I’m currently working on making my first website and game! Currently still designing and preparing the artwork.<br>- 🌱 I’m currently learning C#, JavaScript, HTML+CSS, Python and Java.<br>- 💬 Ask me about art! My hobbies are drawing and painting.<br>- 😄 Pronouns: She/Her<br>- ⚡ Fun fact: I know the first 150 digits of Pi π<br>- 📫 You can reach me through E-Mail: k.03.agob@gmail.com
 
 
 # 💻 Tech Stack:
