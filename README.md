@@ -1,8 +1,6 @@
-## About me
+# 💫 About Me:
+## About me<br><br>- 🔭 I’m currently working on making my first website and game! Currently still designing and preparing the artwork.<br>- 🌱 I’m currently learning C#, JavaScript, HTML+CSS, Python and Java.<br>- 💬 Ask me about art! My hobbies are drawing and painting.<br>- 😄 Pronouns: She/Her<br>- ⚡ Fun fact: I know the first 150 digits of Pi π<br>- 📫 You can reach me through E-Mail: k.03.agob@gmail.com
 
-- 🔭 I’m currently working on making my first website and game! Currently still designing and preparing the artwork.
-- 🌱 I’m currently learning C#, JavaScript, HTML+CSS, Python and Java.
-- 💬 Ask me about art! My hobbies are drawing and painting.
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I know the first 150 digits of Pi π
-- 📫 You can reach me through E-Mail: k.03.agob@gmail.com
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
